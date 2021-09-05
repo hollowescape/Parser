@@ -21,5 +21,16 @@
             Step 5: After that, I am using the CSV writer to write the cleaned data in the new CSV file.
 
 ## Input Format 
-    ![Screenshot from 2021-09-05 16-56-16](https://user-images.githubusercontent.com/46193104/132127630-066942e4-1d85-4d95-a211-604cb5fb4cc4.png)
+![Screenshot from 2021-09-05 16-56-16](https://user-images.githubusercontent.com/46193104/132127630-066942e4-1d85-4d95-a211-604cb5fb4cc4.png)
+    
+    In the above input format, we have to call the parse.py followed by the name of the file on which the parser should work. Then after execution of the parser.py,     it will make a call on the clean.py file and the parsed data will be sent to the clean.py file.
+
+## Output Format 
+![output image](https://drive.google.com/file/d/1VDpAJUiP1vC8_Bx-D1tkz6PudTvW2HEI/view?usp=sharing)
+  
+    In the output, we can see the all mails got parsed successfully for this input file.
+## File Name Convention 
+    The Parsed CSV file will be named filename_parseddata.csv	
+    The cleaned CSV file will be named filename_cleandata.csv 
+
 
