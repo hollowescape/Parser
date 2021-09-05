@@ -21,4 +21,5 @@
             Step 5: After that, I am using the CSV writer to write the cleaned data in the new CSV file.
 
 ## Input Format 
-    
+    ![Screenshot from 2021-09-05 16-56-16](https://user-images.githubusercontent.com/46193104/132127630-066942e4-1d85-4d95-a211-604cb5fb4cc4.png)
+
