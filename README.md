@@ -26,7 +26,8 @@
     In the above input format, we have to call the parse.py followed by the name of the file on which the parser should work. Then after execution of the parser.py,     it will make a call on the clean.py file and the parsed data will be sent to the clean.py file.
 
 ## Output Format 
-![output image](https://drive.google.com/file/d/1VDpAJUiP1vC8_Bx-D1tkz6PudTvW2HEI/view?usp=sharing)
+![Screenshot from 2021-09-05 16-57-50](https://user-images.githubusercontent.com/46193104/132127889-24632906-f4b2-47ab-aa02-841cabd54348.png)
+
   
     In the output, we can see the all mails got parsed successfully for this input file.
 ## File Name Convention 
